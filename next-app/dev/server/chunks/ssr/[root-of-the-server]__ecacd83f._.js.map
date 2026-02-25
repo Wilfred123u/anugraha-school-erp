@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/wilfr/OneDrive/Desktop/newproject/next-app/app/users/new/page.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst newuserpage = () => {\r\n  return (\r\n    <div>newuserpage</div>\r\n  )\r\n}\r\n\r\nexport default newuserpage"],"names":[],"mappings":";;;;;;AAEA,MAAM,cAAc;IAClB,qBACE,8OAAC;kBAAI;;;;;;AAET;uCAEe"}}]
+}
