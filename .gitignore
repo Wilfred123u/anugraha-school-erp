@@ -1,0 +1,19 @@
+# Next.js
+.next/
+out/
+node_modules/
+dev/
+
+# Python
+__pycache__/
+*.pyc
+
+# Photos
+next-app/backend/photos/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
